@@ -20,7 +20,6 @@ The dataset available on [link](https://www.kaggle.com/datasets/danielgrijalvas/
 * Python regex
 * Python Categorical data
 
-Project is taken from a youtube [video](https://www.youtube.com/watch?v=iPYVYBtUTyE), with additional functionalities being executed.
 
 ### What is being done?
 1)	Preliminary tasks   <br>
